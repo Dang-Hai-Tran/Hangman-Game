@@ -1,0 +1,22 @@
+* {
+  border: 1pm solid red;
+}
+.gameArea {
+  text-align: center;
+  font-size: 2em;
+}
+.box .boxD {
+  display: inline-block;
+  padding: 5px;
+}
+.boxE {
+  display: inline-block;
+  border: 1px solid rgb(18, 72, 219);
+  border-radius: 5px;
+  font-size: 1em;
+  color: blue;
+  width: 1.3em;
+}
+.guessChar {
+  color: rgb(235, 23, 23);
+}
